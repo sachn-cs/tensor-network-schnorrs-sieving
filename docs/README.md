@@ -21,6 +21,7 @@ This documentation describes the **Tensor-Network Schnorr's Sieving (TNSS)** alg
 
 | Document | Description |
 |----------|-------------|
+| [getting-started.md](./getting-started.md) | Installation, quick start, CLI usage, and library usage guide |
 | [00-overview.md](./00-overview.md) | High-level algorithm overview, motivation, and pipeline summary |
 
 ### Stage-by-Stage Documentation
@@ -87,9 +88,10 @@ There are no `#[ignored]` tests in the current codebase. Integration tests are i
 
 ## Reading Order
 
-1. Start with [00-overview.md](./00-overview.md) for the big picture
-2. Proceed through stages 1–7 sequentially
-3. Consult [08-implementation-notes.md](./08-implementation-notes.md) for implementation caveats
+1. Start with [getting-started.md](./getting-started.md) for installation and quick start
+2. Read [00-overview.md](./00-overview.md) for the big picture
+3. Proceed through stages 1–7 sequentially
+4. Consult [08-implementation-notes.md](./08-implementation-notes.md) for implementation caveats
 
 ---
 
@@ -103,4 +105,4 @@ There are no `#[ignored]` tests in the current codebase. Integration tests are i
 
 ---
 
-*Documentation version: 0.1.0*
+*Documentation version: 0.1.1*
