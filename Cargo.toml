@@ -20,7 +20,7 @@ rug = { version = "1.29", default-features = false, features = ["integer", "rati
 ndarray = { version = "0.15", features = ["rayon"] }
 num-traits = "0.2"
 num-integer = "0.1"
-rand = "0.9"
+rand = "0.10"
 rand_chacha = "0.9"
 thiserror = "2"
 log = "0.4"
