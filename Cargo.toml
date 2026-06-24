@@ -21,7 +21,7 @@ ndarray = { version = "0.17", features = ["rayon"] }
 num-traits = "0.2"
 num-integer = "0.1"
 rand = "0.10"
-rand_chacha = "0.9"
+rand_chacha = "0.10"
 thiserror = "2"
 log = "0.4"
 rayon = "1.10"
